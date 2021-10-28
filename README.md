@@ -1,2 +1,2 @@
 # basicprojects
-just some projects from the course.
+just some projects from the  Python course.
